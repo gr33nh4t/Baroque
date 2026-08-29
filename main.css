@@ -112,7 +112,7 @@ section[class = 'main']{
 }
 
 .main a {
-    top: 70%;
+    top: 75%;
     background-color: transparent;
     border: 3px var(--warm-beige) solid;
     border-radius: 20px 20px 30px 20px;
